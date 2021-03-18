@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/18 08:46:03.000.900,=C:\Users\Mat\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/18 08:46:25.000.001,C:\Users\Mat\Desktop\WSCUI\Main.pas=C:\Users\Mat\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/18 08:46:25.000.001,C:\Users\Mat\Desktop\WSCUI\Main.dfm=C:\Users\Mat\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/18 08:46:28.000.541,C:\Users\Mat\Desktop\WSCUI\WSCUI.dproj=C:\Users\Mat\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/03/18 09:13:49.000.324,=C:\Users\Mat\Desktop\WSCUI\Unit1.pas</Transaction>
+    <Transaction>2021/03/18 09:13:59.000.714,C:\Users\Mat\Desktop\WSCUI\Unit1.pas=C:\Users\Mat\Desktop\WSCUI\WSBBuilder.pas</Transaction>
+    <Transaction>2021/03/18 09:18:01.000.110,C:\Users\Mat\Desktop\WSCUI\WSBBuilder.pas=C:\Users\Mat\Desktop\WSCUI\WSConfig.pas</Transaction>
+    <Transaction>2021/03/18 13:00:20.000.669,C:\Users\Mat\Desktop\WSCUI\WSCUI.dproj=C:\Users\Mat\Desktop\WSCUI\WSBBuilder.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
