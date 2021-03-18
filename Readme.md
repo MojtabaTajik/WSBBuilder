@@ -17,7 +17,9 @@ Secure: Uses hardware-based virtualization for kernel isolation. It relies on th
 Efficient: Uses the integrated kernel scheduler, smart memory management, and virtual GPU.
 
 [How to enable Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
+
 [Windows Sandbox architecture](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-architecture)
+
 [Windows Sandbox configuration](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file)
 
 [Find out latest executable here](https://github.com/MojtabaTajik/WSBBuilder/releases)
